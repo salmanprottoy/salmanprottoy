@@ -8,7 +8,7 @@ I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'/>
 
 
-### *Connect with me:*  🏃 
+## *Connect with me:*  🏃 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
@@ -18,7 +18,7 @@ I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
