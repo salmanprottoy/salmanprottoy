@@ -2,12 +2,6 @@
 
 I'm a ***Web Developer*** Dhaka, Bangladesh. My interest is in ***Web Development*** and ***Machine Learning***. I love to learn new skills.
 I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
-
-
-## Hello World 🌎:
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='15%'/>
-
-
 ## *Connect with me:*  🏃 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprottoy" /> </p>
 <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
