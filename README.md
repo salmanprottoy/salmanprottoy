@@ -2,10 +2,12 @@
 
 I'm a ***Web Developer*** Dhaka, Bangladesh. My interest is in ***Web Development*** and ***Machine Learning***. I love to learn new skills.
 I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
-## *Connect with me:*  🏃 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprottoy" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
 <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
 
+## *Connect with me:*  🏃 
 <p align="left">
 <a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman-prottoy" height="30" width="40" /></a>
