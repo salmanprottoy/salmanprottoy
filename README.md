@@ -41,8 +41,6 @@ I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 
 ## Github Stats 🔥🔥🔥:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=salmanprottoy&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="70%" /></p>
-
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&theme=onedark" alt="salmanprottoy" width="70%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy&row=2&column=3a&theme=onedark" alt="salmanprottoy"  width="70%"/>
 </p>
