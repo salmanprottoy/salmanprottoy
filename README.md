@@ -9,14 +9,16 @@ I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 
 
 ## *Connect with me:*  🏃 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprottoy" /> </p>
+<p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
 
-
-<a href="https://www.linkedin.com/in/salman-prottoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/salman_prottoy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/salman.prottoy1" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-
-<br />
+<p align="left">
+<a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman-prottoy" height="30" width="40" /></a>
+<a href="https://fb.com/salman.prottoy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
+<a href="https://instagram.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/salmanprottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="salmanprottoy" height="30" width="40" /></a>
+</p>
 
 ## Languages and Tools:
 
