@@ -1,6 +1,6 @@
 # Hi, I'm Md. Salman Hossan Prottoy
 
-I'm a ***Web Developer*** Dhaka, Bangladesh. My interest is in ***Web Development*** and ***Machine Learning***. I love to learn new skills.
+I'm a ***Web Developer*** from Dhaka, Bangladesh. My interest is in ***Web Development*** and ***Machine Learning***. I love to learn new skills.
 I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprottoy" /> </p>
