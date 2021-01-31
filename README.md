@@ -27,6 +27,6 @@ I enjoy working with *JavaScript*, *Python*, *PHP* & *Laravel*.
 ## Github Stats 🔥🔥🔥:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
