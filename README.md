@@ -25,7 +25,6 @@ I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
 
-<!--START_SECTION:activity-->
 ## Github Stats 🔥🔥🔥:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
@@ -33,3 +32,5 @@ I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
+
+<!--START_SECTION:activity-->
