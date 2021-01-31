@@ -4,7 +4,7 @@ I'm a **_Web Developer_** from Dhaka, Bangladesh. My interest is in **_Web Devel
 I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 
 <p align="left"> <img src="https://img.shields.io/github/followers/salmanprottoy?label=salmanprottoy&style=social" alt="salmanprottoy" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprottoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
 <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
 
