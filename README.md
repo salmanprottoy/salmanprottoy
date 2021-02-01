@@ -44,4 +44,3 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
 
-<!--START_SECTION:activity-->
