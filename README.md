@@ -35,4 +35,6 @@ I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
+
 <!--START_SECTION:activity-->
