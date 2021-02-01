@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Salman Hossan Prottoy</h1>
 
-<h4 align="center">I'm a <i>Software Developer</i> from Dhaka, Bangladesh. My interest is in <i>Web Development</i> and <i>Machine Learning</i>. I love to learn new skills.</h4>
+<p align="center">I'm a <b><i>Software Developer</i></b> from Dhaka, Bangladesh. My interest is in <b><i>Web Development</i></b> and <b><i>Machine Learning</i></b>. I love to learn new skills.</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
