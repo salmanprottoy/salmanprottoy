@@ -12,7 +12,7 @@ I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 <p align="left">
 <a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/salman-prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="salman-prottoy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9850634" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9850634" height="30" width="40" /></a>
 <a href="https://kaggle.com/salmanprottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="salmanprottoy" height="30" width="40" /></a>
 <a href="https://fb.com/salman.prottoy1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
 <a href="https://instagram.com/salman_prottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
