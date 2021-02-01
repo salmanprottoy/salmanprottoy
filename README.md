@@ -35,7 +35,6 @@
 ## _Coding Stats:_ ⚡
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 ## _Github Stats:_ ⚡
 
