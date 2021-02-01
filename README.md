@@ -6,9 +6,9 @@
 
 I'm a **_Software_ _Developer_** from Dhaka, Bangladesh. My interest is in **_Web Development_** and **_Machine Learning_**. I love to learn new skills.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
 
 ## _Connect with me:_ 😄
 
