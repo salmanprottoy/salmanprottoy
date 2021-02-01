@@ -34,6 +34,9 @@
 ## _Github Stats:_ ⚡
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
