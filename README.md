@@ -31,12 +31,10 @@
 
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
 
-
-## _Coding Stats:_ ⚡
+## _Github Stats:_ ⚡
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-## _Github Stats:_ ⚡
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
