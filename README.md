@@ -35,6 +35,9 @@
 ## _Coding Stats:_ ⚡
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
 ## _Github Stats:_ ⚡
 
