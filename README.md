@@ -6,10 +6,9 @@
 
 I'm a **_Software_ _Developer_** from Dhaka, Bangladesh. My interest is in **_Web Development_** and **_Machine Learning_**. I love to learn new skills.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
-<!--  <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
-<p align="left"> <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> </p> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 
 ## _Connect with me:_ 😄
 
@@ -32,14 +31,13 @@ I'm a **_Software_ _Developer_** from Dhaka, Bangladesh. My interest is in **_We
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
 
 ## _Github Stats:_ ⚡
+
 <p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
-
-<!-- <p><img align="center" src="https://metrics.lecoq.io/salmanprottoy" alt="salmanprottoy" /></p> -->
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
 </p>
