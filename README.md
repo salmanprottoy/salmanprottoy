@@ -32,15 +32,16 @@ I'm a **_Software_ _Developer_** from Dhaka, Bangladesh. My interest is in **_We
 <p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
 
 ## _Github Stats:_ ⚡
+<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" />
+<p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy" alt="salmanprottoy" /></p>
 
-<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/wakatime?username=salmanprottoy" alt="salmanprottoy" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
 
 <!-- <p><img align="center" src="https://metrics.lecoq.io/salmanprottoy" alt="salmanprottoy" /></p> -->
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
+</p>
 
 <!--START_SECTION:activity-->
