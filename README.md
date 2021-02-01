@@ -3,6 +3,8 @@
 I'm a **_Web Developer_** from Dhaka, Bangladesh. My interest is in **_Web Development_** and **_Machine Learning_**. I love to learn new skills.
 I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 <p align="left"> <a href="https://twitter.com/salman_prottoy" target="blank"><img src="https://img.shields.io/twitter/follow/salman_prottoy?logo=twitter&style=for-the-badge" alt="salman_prottoy" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salmanprottoy" alt="salmanprottoy" /></a> </p>
@@ -35,7 +37,7 @@ I enjoy working with _JavaScript_, _Python_, _PHP_ & _Laravel_.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
 
-<p><img align="center" src="https://metrics.lecoq.io/salmanprottoy" alt="salmanprottoy" /></p>
+<!-- <p><img align="center" src="https://metrics.lecoq.io/salmanprottoy" alt="salmanprottoy" /></p> -->
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
 
