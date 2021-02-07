@@ -34,13 +34,6 @@
 ## _Github Stats:_ ⚡
 
 <!--START_SECTION:waka-->
-```text
-Other      6 hrs 5 mins    ██████████████████░░░░░░░   71.51 % 
-HTML       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Markdown   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-CSS        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Java       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
 <!--END_SECTION:waka-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
