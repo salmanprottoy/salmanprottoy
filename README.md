@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Salman Hossan Prottoy</h1>
 
-<p align="center">I'm a <b><i>Software Developer</i></b> from Dhaka, Bangladesh. My interest is in <b><i>Software Development</i></b> and <b><i>Machine Learning</i></b>.
+<p align="center">I am a 4th Year undergraduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b>, Dhaka, Bangladesh</a>. My interest is in <b><i>Software Development</i></b> and <b><i>Machine Learning</i></b>.
 <br>I love to learn new skills.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
