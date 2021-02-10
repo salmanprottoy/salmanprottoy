@@ -28,7 +28,7 @@
 
 ## _Favorite Languages:_ 😁
 
-<p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=8" alt="salmanprottoy" /></p>
+<p><img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api/top-langs?username=salmanprottoy&show_icons=true&locale=en&langs_count=10" alt="salmanprottoy" /></p>
 
 ## _Github Stats:_ ⚡
 
