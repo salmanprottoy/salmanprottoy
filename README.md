@@ -45,5 +45,6 @@ JSON         6 mins          ▒░░░░░░░░░░░░░░░░
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
+![Metrics](https://metrics.lecoq.io/salmanprottoy?template=classic&languages=1&followup=1&posts=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=5&posts.source=dev.to&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
