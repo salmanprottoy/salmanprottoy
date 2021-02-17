@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="100%" height="28%" src="gif2.gif">
+ <img width="100%" height="30%" src="gif2.gif">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Md. Salman Hossan Prottoy</h1>
