@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Md. Salman Hossan Prottoy</h1>
 
 <p align="left">I am a 4th Year undergraduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b></a>, Dhaka, Bangladesh. My interest is in <b><i>Software Development</i></b> and <b><i>Machine Learning</i></b>.</p>
@@ -42,7 +40,5 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
-
-![Metrics](https://metrics.lecoq.io/salmanprottoy?template=classic&followup=1&config.timezone=Asia%2FDhaka&config.animated=true)
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=salmanprottoy" alt="salmanprottoy" /></p>
