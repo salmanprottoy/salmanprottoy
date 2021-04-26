@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
+<h1 align="center"> Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
 
 <p align="left">I am a 4th Year undergraduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b></a>, Dhaka, Bangladesh. My interest is in <b><i>Software Development</i></b> and <b><i>Machine Learning</i></b>.</p>
 
