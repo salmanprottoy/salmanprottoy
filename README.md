@@ -59,7 +59,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          3 hrs 18 mins   █████████████████▓░░░░░░░   70.37 % 
+JavaScript   48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSX          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 <!--END_SECTION:waka-->
 
