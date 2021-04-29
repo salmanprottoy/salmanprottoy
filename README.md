@@ -1,6 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
 
-<p align="left">I am a 4th Year undergraduate CSE student from <a href="https://www.aiub.edu/"> <b>American International University-Bangladesh(AIUB)</b></a>, Dhaka, Bangladesh. My interest is in <b><i>Software Development</i></b> and <b><i>Machine Learning</i></b>.</p>
+<p align="left">I am a final year undergraduate student in Computer Science and Engineering at <a href="https://www.aiub.edu/"><b>  American International University-Bangladesh</b> </a>. Passionate learner, currently interested in machine learning, natural language processing, AI and quantum computing. I don't confine myself to a certain branch and accept that anything new is never old to understand.
+</p>
+
+<p align="left">I have significant experience with classic backend stacks and front-end frameworks including Express, Laravel, and React. Looking to start the journey with a respectable, technology focused organization as a software engineer.
+</p>
+
+<p align="left">I constantly enhance my abilities and give society new meaning. In order to take on responsibilities, I am mastering my skills. I'd like to lead my own software engineering team.
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 
