@@ -79,4 +79,3 @@ Other            36 mins         █▓░░░░░░░░░░░░░�
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&" alt="salmanprottoy" /></p>
-
