@@ -50,7 +50,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   2 mins          █████████████████████████   100.00 % 
+Java         2 mins          ███████████████████▒░░░░░   77.48 % 
 ```
 <!--END_SECTION:waka-->
 
