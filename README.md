@@ -1,4 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
+<p>
+  I am a final year undergraduate student in Computer Science and Engineering at American International University-Bangladesh. A lifelong learner, I am currently fascinated by machine learning, natural language processing, artificial intelligence, and quantum computing. I am not confined to a single branch and believe that anything new is never too complex to comprehend.
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" /> </p>
 
