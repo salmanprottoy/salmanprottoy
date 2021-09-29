@@ -43,4 +43,10 @@
 
 ## _Github Stats:_ ⚡
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
+
+ 
+## _Waka Time Stats:_ ⚡
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact" alt="salmanprottoy" /></p>
+
