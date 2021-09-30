@@ -12,16 +12,12 @@
 ## _Connect with me:_ 😄
 
 <p align="center">
-<a href="https://dev.to/salmanprottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="salmanprottoy" height="30" width="40" /></a>
 <a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9850634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
-<a href="https://kaggle.com/salmanprottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salmanprottoy" height="30" width="40" /></a>
 <a href="https://fb.com/salman.prottoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
 <a href="https://instagram.com/salman_prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
 <a href="https://medium.com/@salman-prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salman-prottoy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/salmanprottoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="salmanprottoy" height="30" width="40" /></a>
-<a href="https://discord.gg/#1690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="salmanProttoy#1690" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9850634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
 </p>
 
 ## _Languages and Tools:_ 🐱‍👤
