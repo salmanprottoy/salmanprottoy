@@ -45,4 +45,3 @@
 ## _Waka Time Stats:_ ⚡
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact" alt="salmanprottoy" /></p>
-
