@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/9850634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
 </p>
 
-## _Languages and Tools:_ 🐱‍👤
+## _Languages and Tools:_ ⚡
 
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
