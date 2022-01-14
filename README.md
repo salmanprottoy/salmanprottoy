@@ -7,7 +7,6 @@
   I am a final year undergraduate student in Computer Science and Engineering at American International University-Bangladesh. A lifelong learner, I am currently fascinated by machine learning, natural language processing, artificial intelligence, and quantum computing. I am not confined to a single branch and believe that anything new is never too complex to comprehend.
 </p>
 
-
 ## _Connect with me:_ 😄
 
 <p align="center">
@@ -40,7 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=salmanprottoy&show_icons=true&locale=en" alt="salmanprottoy" /></p>
 
- 
 ## _Waka Time Stats:_ ⚡
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact" alt="salmanprottoy" /></p>
