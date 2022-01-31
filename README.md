@@ -44,3 +44,8 @@
 ## _Waka Time Stats:_ ⚡
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact&langs_count=10&locale=en" alt="salmanprottoy" /></p>
+
+## _Contributions:_
+ 
+(in the last 365 days, languages pie based on number of commits)
+![](./profile-3d-contrib/profile-season-animate.svg)
