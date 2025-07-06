@@ -49,19 +49,6 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanprottoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanprottoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -80,6 +67,19 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
   <a href="https://salmanprottoy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanprottoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanprottoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
