@@ -79,7 +79,15 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanprottoy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanprottoy&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="Top Languages" />
+</div>
+
+---
+
+## ⚡Waka Time Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="salmanprottoy" />
 </div>
 
 ---
