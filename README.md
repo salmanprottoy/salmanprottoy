@@ -2,27 +2,27 @@
   <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" />
 </div>
 
-# 👨‍💻 Md. Salman Hossan Prottoy
+# 👨‍💻 𝗠𝗱. 𝗦𝗮𝗹𝗺𝗮𝗻 𝗛𝗼𝘀𝘀𝗮𝗻 𝗣𝗿𝗼𝘁𝘁𝗼𝘆
 
 <div align="center">
-  <strong>Software Engineer & Web Developer</strong>
+  <strong>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-I am a results-driven **Software Engineer** with **2+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Currently serving as a **Software Engineer & Sub-Lead** at **Brand Cloud Inc.** (Tokyo, Japan), working remotely from Bangladesh.
+I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **2+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Currently serving as a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗦𝘂𝗯-𝗟𝗲𝗮𝗱** at **Brand Cloud Inc.** (Tokyo, Japan), working remotely from Bangladesh.
 
-### 🎯 Core Expertise
-- **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go
-- **Cloud & DevOps**: Docker, AWS, Firebase, Vercel, PostgreSQL, MongoDB
-- **Team Leadership**: Leading cross-functional teams, code reviews, agile processes
-- **Performance Optimization**: Database optimization, query tuning, system architecture
+### 🎯 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
+- **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go  
+- **Cloud & DevOps**: Docker, AWS, Firebase, Vercel, PostgreSQL, MongoDB  
+- **Team Leadership**: Cross-functional teams, code reviews, agile workflows  
+- **Performance Optimization**: DB tuning, architecture design, scaling systems  
 
+---
 
-
-## 🛠️ Technologies & Tools
+## 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
 
 ### **Frontend & UI**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 
 ---
 
-## 📫 Connect With Me
+## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
 
 <div align="center">
   <a href="https://linkedin.com/in/salman-prottoy" target="_blank">
@@ -71,7 +71,7 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 
 ---
 
-## ⚡Waka Time Stats
+## ⚡ 𝗪𝗮𝗸𝗮 𝗧𝗶𝗺𝗲 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="salmanprottoy" />
@@ -79,7 +79,7 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmanprottoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -92,7 +92,7 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 
 ---
 
-## 📈 Contribution Graph
+## 📈 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗚𝗿𝗮𝗽𝗵
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
@@ -101,5 +101,5 @@ I am a results-driven **Software Engineer** with **2+ years** of experience spec
 ---
 
 <div align="center">
-  <em>Passionate about clean code, performance optimization, and building intuitive applications that deliver measurable business value.</em>
+  <em>Passionate about clean code, performance optimization, and building intuitive apps that deliver real value.</em>
 </div>
