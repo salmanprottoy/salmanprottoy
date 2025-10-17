@@ -12,7 +12,7 @@
 
 ## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **2+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Currently serving as a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗦𝘂𝗯-𝗟𝗲𝗮𝗱** at **Brand Cloud Inc.** (Tokyo, Japan), working remotely from Bangladesh.
+I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **3+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Currently serving as a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗦𝘂𝗯-𝗟𝗲𝗮𝗱** at **Brand Cloud Inc.** (Tokyo, Japan), working remotely from Bangladesh.
 
 ### 🎯 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
 - **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go  
