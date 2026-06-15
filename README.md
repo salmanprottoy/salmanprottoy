@@ -103,3 +103,19 @@ I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻�
 <div align="center">
   <em>Passionate about clean code, performance optimization, and building intuitive apps that deliver real value.</em>
 </div>
+
+---
+
+## ☕ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝘆 𝗪𝗼𝗿𝗸
+
+<div align="center">
+  <a href="https://buymeacoffee.com/salmanprottoy" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<div align="center">
+  <em>If you find my work helpful, consider supporting me with a coffee ☕</em>
+</div>
+
+---
