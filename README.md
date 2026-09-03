@@ -5,20 +5,21 @@
 # 👨‍💻 𝗠𝗱. 𝗦𝗮𝗹𝗺𝗮𝗻 𝗛𝗼𝘀𝘀𝗮𝗻 𝗣𝗿𝗼𝘁𝘁𝗼𝘆
 
 <div align="center">
-  <strong>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong>
+  <strong>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗔𝗜/𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong>
 </div>
 
 ---
 
 ## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **4+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Currently serving as a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗦𝘂𝗯-𝗟𝗲𝗮𝗱** at **Brand Cloud Inc.** (Tokyo, Japan), working remotely from Bangladesh.
+I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **4+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Most recently a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** at **Brand Cloud Inc.** (Tokyo, Japan, remote), where I helped build and scale a RAG-based AI application. Currently based in **Finland**, completing an **M.Sc. in Artificial Intelligence** at the **University of Jyväskylä**.
 
 ### 🎯 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
-- **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go  
-- **Cloud & DevOps**: Docker, AWS, Firebase, Vercel, PostgreSQL, MongoDB  
-- **Team Leadership**: Cross-functional teams, code reviews, agile workflows  
-- **Performance Optimization**: DB tuning, architecture design, scaling systems  
+- **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go
+- **AI / LLM Systems**: RAG pipelines, LangChain, CrewAI, vector search (ChromaDB), LLM integration
+- **Cloud & DevOps**: Docker, AWS, Firebase, Vercel, PostgreSQL, MongoDB
+- **Team Leadership**: Mentoring junior engineers, code reviews, agile workflows
+- **Performance Optimization**: DB tuning, architecture design, scaling systems
 
 ---
 
@@ -37,8 +38,14 @@ I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻�
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **AI / ML**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
