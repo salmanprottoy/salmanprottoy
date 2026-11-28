@@ -1,128 +1,32 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanprottoy&label=Profile%20views&color=0e75b6&style=social" alt="salmanprottoy" />
-</div>
+# Md. Salman Hossan Prottoy
 
-# 👨‍💻 𝗠𝗱. 𝗦𝗮𝗹𝗺𝗮𝗻 𝗛𝗼𝘀𝘀𝗮𝗻 𝗣𝗿𝗼𝘁𝘁𝗼𝘆
+**Software engineer building LLM, RAG and agent systems on solid backend and cloud foundations.**
+MSc in Artificial Intelligence at the University of Jyväskylä, Finland. Available full-time from January 2027.
 
-<div align="center">
-  <strong>𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗔𝗜/𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</strong>
-</div>
+[LinkedIn](https://linkedin.com/in/salman-prottoy) · [Portfolio](https://salmanprottoy.vercel.app/) · [Springer paper](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_51)
 
----
+## What I've built
 
-## 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+**Production RAG platform** (Brand Cloud Inc., Tokyo, remote, 2023 to 2026)
+Let people ask questions about their own documents inside client products. Built with LangChain: document ingestion, vector-search retrieval on ChromaDB, multi-LLM integration and response caching in Redis, packaged in Docker so deployments were repeatable. The code is client work and not public; I'm happy to walk through the architecture.
 
-I am a results-driven **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** with **4+ years** of experience specializing in full-stack development, cloud architecture, and scalable web applications. Most recently a **𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** at **Brand Cloud Inc.** (Tokyo, Japan, remote), where I helped build and scale a RAG-based AI application. Currently based in **Finland**, completing an **M.Sc. in Artificial Intelligence** at the **University of Jyväskylä**.
+**Multi-tenant travel platform APIs** (W3 Engineers, Dhaka, 2022 to 2023)
+A large share of the REST and GraphQL endpoints in Go and Node.js behind dozens of websites, asynchronous pipelines on Amazon SQS that pulled several external providers into one schema, and part of the team migration from Django to Go.
 
-### 🎯 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲
-- **Full-Stack Development**: React, Next.js, Vue.js, Node.js, Django, Go
-- **AI / LLM Systems**: RAG pipelines, LangChain, CrewAI, vector search (ChromaDB), LLM integration
-- **Cloud & DevOps**: Docker, AWS, Firebase, Vercel, PostgreSQL, MongoDB
-- **Team Leadership**: Mentoring junior engineers, code reviews, agile workflows
-- **Performance Optimization**: DB tuning, architecture design, scaling systems
+**[Picky](https://github.com/khawajaawais1/picky-berry-assistant)**: berry-picking assistant (University of Jyväskylä, team of seven)
+I built the React Native (Expo) app in TypeScript with a MapLibre zone map and GPS visit tracking, the React and Vite admin console, its NestJS API on PostgreSQL with PostGIS, and the GitHub Actions workflows that test and release all three.
 
----
+**[Bangla fake-news detection](https://github.com/salmanprottoy/BSc-Thesis-Imbalance-Handling-and-Model-Stacking)**: published by [Springer](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_51)
+Raised F1 from 67.6% to 93.1% on the heavily imbalanced BanFakeNews dataset by balancing it with SMOTE, in Python and TensorFlow. Received the Vice Chancellor's Award at American International University-Bangladesh.
 
-## 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 & 𝗧𝗼𝗼𝗹𝘀
+## Stack
 
-### **Frontend & UI**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- **AI / LLM:** LangChain, RAG, ChromaDB vector search, multi-LLM integration, Python, TensorFlow
+- **Backend:** Go, Node.js, NestJS, Django, REST, GraphQL
+- **Frontend:** TypeScript, React, Next.js, React Native, Vue.js, Tailwind CSS
+- **Data:** PostgreSQL (Amazon RDS, PostGIS), Redis
+- **Cloud and delivery:** AWS (EC2, RDS, SQS, EFS), Docker, Nginx, Vercel, GitHub Actions CI/CD
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+## Currently
 
-### **AI / ML**
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲
-
-<div align="center">
-  <a href="https://linkedin.com/in/salman-prottoy" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/salman_prottoy" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@salman-prottoy" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/9850634" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://salmanprottoy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-## ⚡ 𝗪𝗮𝗸𝗮 𝗧𝗶𝗺𝗲 𝗦𝘁𝗮𝘁𝘀
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salmanprottoy&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="salmanprottoy" />
-</div>
-
----
-
-## 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanprottoy&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanprottoy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanprottoy&layout=compact&theme=radical&hide_border=true&langs_count=10&locale=en" alt="Top Languages" />
-</div>
-
----
-
-## 📈 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗚𝗿𝗮𝗽𝗵
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <em>Passionate about clean code, performance optimization, and building intuitive apps that deliver real value.</em>
-</div>
-
----
-
-## ☕ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝘆 𝗪𝗼𝗿𝗸
-
-<div align="center">
-  <a href="https://buymeacoffee.com/salmanprottoy" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
-<div align="center">
-  <em>If you find my work helpful, consider supporting me with a coffee ☕</em>
-</div>
-
----
+Finishing my MSc in AI at Jyväskylä and looking for AI engineering and software engineering roles in Finland or remote in the EU from January 2027.
