@@ -29,4 +29,4 @@ Raised F1 from 67.6% to 93.1% on the heavily imbalanced BanFakeNews dataset by b
 
 ## Currently
 
-Finishing my MSc in AI at Jyväskylä and looking for AI engineering and software engineering roles in Finland or remote in the EU from January 2027.
+Finishing my MSc in AI at Jyväskylä and looking for AI engineering and software engineering roles in Finland or remote in the EU.
